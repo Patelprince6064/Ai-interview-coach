@@ -141,7 +141,7 @@ app.get('*', (req, res) => res.sendFile(path.join(__dirname, '../client/dist/ind
 - 🎯 6 roles × 5 questions each (Software Engineer, PM, Data Scientist, UX, Marketing, Sales)
 - 🤖 AI scoring & feedback per answer (rule-based, ready to replace with Claude API)
 - ⏱️ Live countdown timer per interview
-- 📊 Dashboard with session history & stats
+- 📊 Dashboard with session history and stats
 - 📈 Analytics: score trends, skill breakdown by question type, performance by role
 - 💾 All sessions persisted to MongoDB
 - 🔓 Works as guest too (scoring done client-side without auth)
