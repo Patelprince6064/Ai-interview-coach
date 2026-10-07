@@ -1,6 +1,6 @@
 # AI Interview Coach — MERN Stack
 
-A full-stack AI-powered interview preparation app built with **MongoDB, Express, React, Node.js**.
+A full-stack AI-powered interview preparation app built with **MongoDB, Express, React, Node.js**
 
 ---
 
