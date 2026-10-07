@@ -31,7 +31,7 @@ ai-interview-coach-mern/
 ## 🚀 Quick Start
 
 ### 1. Prerequisites
-- Node.js 18
+- Node.js 18+
 - MongoDB running locally OR a MongoDB Atlas URI
 - npm or bun
 
